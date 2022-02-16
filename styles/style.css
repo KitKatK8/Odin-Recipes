@@ -1,0 +1,15 @@
+ul {
+ background-color: darkcyan;
+ color: white;
+ width: 350px;
+ border-width: 10px;
+ border-style: solid;
+ border-color: darkgoldenrod;
+ margin: 10px 20px 10px 0px;
+ padding: 10px 20px 10px 100px;
+ text-align: center;
+ font-family: 'La Belle Aurore', cursive;   
+}
+h1 {
+font-family: 'Amatic SC', cursive,"times new roman";
+}
